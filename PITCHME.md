@@ -54,9 +54,7 @@
 
 - Vectors are columns of numbers
 
-`$
-\vec{a} = \begin{bmatrix}1 \\2\\3\\4\\\vdots\\n\end{bmatrix}
-`$
+`$$\vec{a} = \begin{bmatrix}1 \\2\\3\\4\\\vdots\\n\end{bmatrix}$$`
 
 @ul
 - This is a $n\times1$ vectors
